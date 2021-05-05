@@ -1,1 +1,1 @@
-package shared.custom
+package global.shared.custom
