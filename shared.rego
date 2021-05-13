@@ -1,4 +1,4 @@
-package shared
+package global.shared
 
 default allow = false
 
